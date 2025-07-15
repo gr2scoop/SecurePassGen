@@ -67,9 +67,6 @@ This project is licensed under the [MIT License](LICENSE).
 If you find any issues or have suggestions, feel free to submit them via the [Issues](https://github.com/gr2scoop/SecurePassGen/issues) tab.  
 문제점이나 개선 제안이 있다면 [Issues](https://github.com/gr2scoop/SecurePassGen/issues) 탭에 남겨주세요.
 
-Pull requests are always welcome.  
-Pull request도 언제든지 환영합니다.
-
 ---
 
 ## 💡 Motivation | 개발 동기
