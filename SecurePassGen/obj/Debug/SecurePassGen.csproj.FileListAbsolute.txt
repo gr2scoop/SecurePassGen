@@ -1,0 +1,11 @@
+C:\Users\DKSUSER\Desktop\works\projects\소부재\dev\SecurePassGen\SecurePassGen\bin\Debug\SecurePassGen.exe.config
+C:\Users\DKSUSER\Desktop\works\projects\소부재\dev\SecurePassGen\SecurePassGen\bin\Debug\SecurePassGen.exe
+C:\Users\DKSUSER\Desktop\works\projects\소부재\dev\SecurePassGen\SecurePassGen\bin\Debug\SecurePassGen.pdb
+C:\Users\DKSUSER\Desktop\works\projects\소부재\dev\SecurePassGen\SecurePassGen\obj\Debug\SecurePassGen.csproj.AssemblyReference.cache
+C:\Users\DKSUSER\Desktop\works\projects\소부재\dev\SecurePassGen\SecurePassGen\obj\Debug\SecurePassGen.MainForm.resources
+C:\Users\DKSUSER\Desktop\works\projects\소부재\dev\SecurePassGen\SecurePassGen\obj\Debug\SecurePassGen.Properties.Resources.resources
+C:\Users\DKSUSER\Desktop\works\projects\소부재\dev\SecurePassGen\SecurePassGen\obj\Debug\SecurePassGen.csproj.GenerateResource.cache
+C:\Users\DKSUSER\Desktop\works\projects\소부재\dev\SecurePassGen\SecurePassGen\obj\Debug\SecurePassGen.csproj.CoreCompileInputs.cache
+C:\Users\DKSUSER\Desktop\works\projects\소부재\dev\SecurePassGen\SecurePassGen\obj\Debug\SecurePassGen.exe
+C:\Users\DKSUSER\Desktop\works\projects\소부재\dev\SecurePassGen\SecurePassGen\obj\Debug\SecurePassGen.pdb
+C:\Users\DKSUSER\Desktop\works\projects\소부재\dev\SecurePassGen\SecurePassGen\obj\Debug\SecurePassGen.exe.config
