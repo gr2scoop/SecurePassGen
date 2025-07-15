@@ -1,0 +1,60 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# VS Code
+.vscode/
+
+# Visual Studio
+.vs/
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+*.nuspec
+project.lock.json
+project.fragment.lock.json
+
+# ReSharper
+*.ReSharper
+*.DotSettings.user
+
+# Rider
+.idea/
+
+# Test results
+[Tt]est[Rr]esult*/  
+*.trx  
+*.coverage  
+*.coveragexml
+
+# StyleCop
+StyleCopReport.xml
+
+# Backup & Logs
+*.log
+*.bak
+
+# Publish folders
+publish/
+AppPackages/
+*.appxupload
+*.appx
+
+# User-specific files
+*.swp
+*.tmp
+*.dbmdl
+*.pidb
+*.svclog
+
+# Windows image thumbs
+Thumbs.db
+
+# Others
+*.orig
