@@ -15,7 +15,7 @@
   - ✅ Uppercase letters (A-Z) | 대문자 포함 여부
   - ✅ Lowercase letters (a-z) | 소문자 포함 여부
   - ✅ Numbers (0-9) | 숫자 포함 여부
-  - ✅ Special symbols (!@#$...) | 특수문자 포함 여부
+  - ✅ Special symbols (!@#$%^&*()_+-=[]{}|;:',.<>?/) | 특수문자 포함 여부
 - Exclude similar characters (e.g., l, 1, I, O, 0)  
   헷갈리는 유사 문자 제외 기능
 - Copy password to clipboard with one click  
