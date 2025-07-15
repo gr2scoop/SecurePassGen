@@ -26,10 +26,6 @@
 ---
 
 ## 🖼 Screenshot | 프로그램 화면
-
-> 📌 Place your screenshot image at `assets/screenshot.png`  
-> `assets/screenshot.png` 위치에 실행 화면을 추가하면 자동으로 보입니다.
-
 ![screenshot](assets/screenshot.png)
 
 ---
@@ -45,7 +41,6 @@ Visit the [Releases](https://github.com/gr2scoop/SecurePassGen/releases) page to
 
 - **Language**: C#
 - **Framework**: .NET Framework (WinForms)
-- **UI Library**: [MaterialSkin 2](https://github.com/IgnaceMaes/MaterialSkin)
 
 ---
 
@@ -56,10 +51,7 @@ Visit the [Releases](https://github.com/gr2scoop/SecurePassGen/releases) page to
 
 1. Open the solution in Visual Studio  
    Visual Studio로 솔루션 파일을 엽니다
-2. Restore NuGet packages  
-   필요한 NuGet 패키지를 복원합니다 (예: MaterialSkin)
-3. Press F5 to build and run  
-   F5 키를 눌러 실행하거나, `bin/Release`에서 `.exe`를 실행하세요
+2. F5 키를 눌러 실행하거나, `bin/Release`에서 `.exe`를 실행하세요
 
 ---
 
