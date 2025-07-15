@@ -100,7 +100,7 @@
             0,
             0});
             this.numericUpDownLength.Minimum = new decimal(new int[] {
-            8,
+            12,
             0,
             0,
             0});
